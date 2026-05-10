@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prasiddhi!
 
-### 🌥️ Cloud Engineer | Azure | DevOps | Automation Enthusiast
+### 🌥️ Cloud Engineer | Azure | DevOps | Automation Enthusiast | K8 Engineer
 
 Welcome to my GitHub! I'm a cloud engineer with **5+ years of experience** building, automating, and scaling cloud infrastructure — mainly on **Azure**, with hands-on exposure to **AWS** as well.
 
