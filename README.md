@@ -20,13 +20,6 @@ I enjoy turning complex cloud problems into simple, reliable, and automated solu
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Status |
-|---|---|---|
-| [🤫 KubeWhisper](https://github.com/prasidd15/kubewhisper) | AI-powered K8s assistant — just describe your problem, it fixes it | 🟡 Alpha |
-| [☸️ K8s Cluster Demo](https://github.com/prasidd15/k8s-cluster-demo) | Production-grade local K8s cluster with security, HPA & AI chat | ✅ Done |
-
 ---
 
 ## 🛠️ Tech Stack & Skills
